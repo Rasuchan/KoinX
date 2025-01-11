@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/KoinX/static/css/main.306fc5d4.css",
+    "main.js": "/KoinX/static/js/main.9ea36fd0.js",
+    "static/js/488.8fb83f4c.chunk.js": "/KoinX/static/js/488.8fb83f4c.chunk.js",
+    "static/media/slick.svg": "/KoinX/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/KoinX/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/KoinX/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/KoinX/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/KoinX/index.html",
+    "main.306fc5d4.css.map": "/KoinX/static/css/main.306fc5d4.css.map",
+    "main.9ea36fd0.js.map": "/KoinX/static/js/main.9ea36fd0.js.map",
+    "488.8fb83f4c.chunk.js.map": "/KoinX/static/js/488.8fb83f4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306fc5d4.css",
+    "static/js/main.9ea36fd0.js"
+  ]
+}
